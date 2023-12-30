@@ -1,7 +1,5 @@
 package _231221.abstractClass;
 
-import _231214.message.C;
-
 public class Main {
     public static void main(String[] args) {
         Circle circle = new Circle("빨간색", 2.2);

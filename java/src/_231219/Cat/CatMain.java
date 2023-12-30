@@ -1,7 +1,5 @@
 package _231219.Cat;
 
-import _231214.message.B;
-
 public class CatMain {
     public static void main(String[] args) {
         BabyCat babyCat= new BabyCat("샴고양이", "초콜릿색");
