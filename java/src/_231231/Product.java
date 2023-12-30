@@ -15,15 +15,8 @@ public class Product {
         return price;
     }
 
-    public int getBonusPoint() {
-        return bonusPoint;
-    }
-
     public void setPrice(int price) {
         this.price = price;
     }
 
-    public void setBonusPoint(int bonusPoint) {
-        this.bonusPoint = bonusPoint;
-    }
 }
